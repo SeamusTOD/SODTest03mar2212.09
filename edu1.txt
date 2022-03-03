@@ -1,1 +1,2 @@
 1. first file sent to github upload direct from laptop
+2. file now sent from laptop to folder with problem 2 + 2 =6
