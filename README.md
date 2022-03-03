@@ -7,3 +7,4 @@ two folders were set up 03mar22 1233
 PROBLEM
 i want to enter a new operation into the edu1 file so i construct a new branch 12.45.
 this file was uploaded at 13.11 
+this problem was repaired by keeldrum1977 and released in verision 1.3
